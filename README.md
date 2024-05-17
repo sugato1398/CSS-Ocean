@@ -24,3 +24,11 @@ padding-right:
 padding-left:
 padding-top:
 padding-bottom:
+
+
+
+#TODO
+
+1. position exploration
+2. beautify landing pages
+3. borders
