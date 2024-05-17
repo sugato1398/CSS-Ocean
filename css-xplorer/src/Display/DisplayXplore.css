@@ -1,0 +1,35 @@
+.bg-gray-900 {
+    background-color: #121826;
+}
+
+a {
+    color: white !important; 
+}
+
+.block{
+    display: block;
+}
+
+.inline {
+    display: inline;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.hidden {
+    display: none;
+}
+
+.margin-all {
+    margin:10px 10px 10px 10px;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-between {
+    justify-content: space-between;
+}

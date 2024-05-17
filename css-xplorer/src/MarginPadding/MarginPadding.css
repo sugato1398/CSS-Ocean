@@ -1,0 +1,24 @@
+.OrangeRed { background-color: #ff4500; }
+.MediumSlateBlue { background-color: #7b68ee; }
+.MediumSpringGreen { background-color: #00fa9a; }
+.SlateBlue { background-color: #6a5acd; }
+.SlateGray { background-color: #708090; }
+.FireBrick { background-color: #b22222; }
+.DarkSalmon { background-color: #e9967a; }
+
+.parent-block {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-fill {
+    flex-grow: 1;
+}
+
+.margin-all {
+    margin: 10px 10px 10px 10px;
+}
+
+.padding-all {
+    padding: 20px 20px 20px 20px;
+}
