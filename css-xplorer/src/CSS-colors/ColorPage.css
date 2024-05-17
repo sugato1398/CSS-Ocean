@@ -1,0 +1,163 @@
+.orange {
+    color: orange;
+}
+
+.alice-blue {
+    background-color: #f0f8ff;
+}
+
+.aqua {
+    background-color: #00ffff;
+}
+
+.text-color {
+    color: white;
+}
+
+.AliceBlue { background-color: #f0f8ff; }
+.AntiqueWhite { background-color: #faebd7; }
+.Aqua { background-color: #00ffff; }
+.Aquamarine { background-color: #7fffd4; }
+.Azure { background-color: #f0ffff; }
+.Beige { background-color: #f5f5dc; }
+.Bisque { background-color: #ffe4c4; }
+.Black { background-color: #000000; }
+.BlanchedAlmond { background-color: #ffebcd; }
+.Blue { background-color: #0000ff; }
+.BlueViolet { background-color: #8a2be2; }
+.Brown { background-color: #a52a2a; }
+.BurlyWood { background-color: #deb887; }
+.CadetBlue { background-color: #5f9ea0; }
+.Chartreuse { background-color: #7fff00; }
+.Chocolate { background-color: #d2691e; }
+.Coral { background-color: #ff7f50; }
+.CornflowerBlue { background-color: #6495ed; }
+.Cornsilk { background-color: #fff8dc; }
+.Crimson { background-color: #dc143c; }
+.Cyan { background-color: #00ffff; }
+.DarkBlue { background-color: #00008b; }
+.DarkCyan { background-color: #008b8b; }
+.DarkGoldenRod { background-color: #b8860b; }
+.DarkGrey { background-color: #a9a9a9; }
+.DarkGreen { background-color: #006400; }
+.DarkKhaki { background-color: #bdb76b; }
+.DarkMagenta { background-color: #8b008b; }
+.DarkOliveGreen { background-color: #556b2f; }
+.DarkOrange { background-color: #ff8c00; }
+.DarkOrchid { background-color: #9932cc; }
+.DarkRed { background-color: #8b0000; }
+.DarkSalmon { background-color: #e9967a; }
+.DarkSeaGreen { background-color: #8fbc8f; }
+.DarkSlateBlue { background-color: #483d8b; }
+.DarkSlateGray { background-color: #2f4f4f; }
+.DarkSlateGrey { background-color: #2f4f4f; }
+.DarkTurquoise { background-color: #00ced1; }
+.DarkViolet { background-color: #9400d3; }
+.DeepPink { background-color: #ff1493; }
+.DeepSkyBlue { background-color: #00bfff; }
+.DimGray { background-color: #696969; }
+.DimGrey { background-color: #696969; }
+.DodgerBlue { background-color: #1e90ff; }
+.FireBrick { background-color: #b22222; }
+.FloralWhite { background-color: #fffaf0; }
+.ForestGreen { background-color: #228b22; }
+.Fuchsia { background-color: #ff00ff; }
+.Gainsboro { background-color: #dcdcdc; }
+.GhostWhite { background-color: #f8f8ff; }
+.Gold { background-color: #ffd700; }
+.GoldenRod { background-color: #daa520; }
+.Gray { background-color: #808080; }
+.Grey { background-color: #808080; }
+.Green { background-color: #008000; }
+.GreenYellow { background-color: #adff2f; }
+.HoneyDew { background-color: #f0fff0; }
+.HotPink { background-color: #ff69b4; }
+.IndianRed { background-color: #cd5c5c; }
+.Indigo { background-color: #4b0082; }
+.Ivory { background-color: #fffff0; }
+.Khaki { background-color: #f0e68c; }
+.Lavender { background-color: #e6e6fa; }
+.LavenderBlush { background-color: #fff0f5; }
+.LawnGreen { background-color: #7cfc00; }
+.LemonChiffon { background-color: #fffacd; }
+.LightBlue { background-color: #add8e6; }
+.LightCoral { background-color: #f08080; }
+.LightCyan { background-color: #e0ffff; }
+.LightGoldenRodYellow { background-color: #fafad2; }
+.LightGray { background-color: #d3d3d3; }
+.LightGrey { background-color: #d3d3d3; }
+.LightGreen { background-color: #90ee90; }
+.LightPink { background-color: #ffb6c1; }
+.LightSalmon { background-color: #ffa07a; }
+.LightSeaGreen { background-color: #20b2aa; }
+.LightSkyBlue { background-color: #87cefa; }
+.LightSlateGray { background-color: #778899; }
+.LightSlateGrey { background-color: #778899; }
+.LightSteelBlue { background-color: #b0c4de; }
+.LightYellow { background-color: #ffffe0; }
+.Lime { background-color: #00ff00; }
+.LimeGreen { background-color: #32cd32; }
+.Linen { background-color: #faf0e6; }
+.Magenta { background-color: #ff00ff; }
+.Maroon { background-color: #800000; }
+.MediumAquaMarine { background-color: #66cdaa; }
+.MediumBlue { background-color: #0000cd; }
+.MediumOrchid { background-color: #ba55d3; }
+.MediumPurple { background-color: #9370db; }
+.MediumSeaGreen { background-color: #3cb371; }
+.MediumSlateBlue { background-color: #7b68ee; }
+.MediumSpringGreen { background-color: #00fa9a; }
+.MediumTurquoise { background-color: #48d1cc; }
+.MediumVioletRed { background-color: #c71585; }
+.MidnightBlue { background-color: #191970; }
+.MintCream { background-color: #f5fffa; }
+.MistyRose { background-color: #ffe4e1; }
+.Moccasin { background-color: #ffe4b5; }
+.NavajoWhite { background-color: #ffdead; }
+.Navy { background-color: #000080; }
+.OldLace { background-color: #fdf5e6; }
+.Olive { background-color: #808000; }
+.OliveDrab { background-color: #6b8e23; }
+.Orange { background-color: #ffa500; }
+.OrangeRed { background-color: #ff4500; }
+.Orchid { background-color: #da70d6; }
+.PaleGoldenRod { background-color: #eee8aa; }
+.PaleGreen { background-color: #98fb98; }
+.PaleTurquoise { background-color: #afeeee; }
+.PaleVioletRed { background-color: #db7093; }
+.PapayaWhip { background-color: #ffefd5; }
+.PeachPuff { background-color: #ffdab9; }
+.Peru { background-color: #cd853f; }
+.Pink { background-color: #ffc0cb; }
+.Plum { background-color: #dda0dd; }
+.PowderBlue { background-color: #b0e0e6; }
+.Purple { background-color: #800080; }
+.RebeccaPurple { background-color: #663399; }
+.Red { background-color: #ff0000; }
+.RosyBrown { background-color: #bc8f8f; }
+.RoyalBlue { background-color: #4169e1; }
+.SaddleBrown { background-color: #8b4513; }
+.Salmon { background-color: #fa8072; }
+.SandyBrown { background-color: #f4a460; }
+.SeaGreen { background-color: #2e8b57; }
+.SeaShell { background-color: #fff5ee; }
+.Sienna { background-color: #a0522d; }
+.Silver { background-color: #c0c0c0; }
+.SkyBlue { background-color: #87ceeb; }
+.SlateBlue { background-color: #6a5acd; }
+.SlateGray { background-color: #708090; }
+.SlateGrey { background-color: #708090; }
+.Snow { background-color: #fffafa; }
+.SpringGreen { background-color: #00ff7f; }
+.SteelBlue { background-color: #4682b4; }
+.Tan { background-color: #d2b48c; }
+.Teal { background-color: #008080; }
+.Thistle { background-color: #d8bfd8; }
+.Tomato { background-color: #ff6347; }
+.Turquoise { background-color: #40e0d0; }
+.Violet { background-color: #ee82ee; }
+.Wheat { background-color: #f5deb3; }
+.White { background-color: #ffffff; }
+.WhiteSmoke { background-color: #f5f5f5; }
+.Yellow { background-color: #ffff00; }
+.YellowGreen { background-color: #9acd32; }
