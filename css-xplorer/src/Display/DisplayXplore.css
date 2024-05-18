@@ -30,6 +30,156 @@ a {
     display: flex;
 }
 
+.parent {
+    border: 3px solid black;
+}
+
+.height-100 {
+    height:100px;
+}
+
+.pad-up-10 {
+    padding-top: 10px;
+}
+
+.pad-up-30 {
+    padding-top: 30px;
+}
+/* ----------------  justify content -------------------------------- */
+
 .justify-between {
     justify-content: space-between;
+}
+
+.justify-fl-start {
+    justify-content: flex-start;
+}
+
+.justify-fl-end {
+    justify-content: flex-end;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-around {
+    justify-content: space-around;
+}
+
+.justify-evenly {
+    justify-content: space-evenly;
+
+}
+
+.justify-right {
+    justify-content: right;
+
+}
+
+.justify-left {
+    justify-content: left;
+
+}
+
+/* ---------------------------  align items --------------------------- */
+
+.align-fl-start {
+    align-items: flex-start;
+}
+
+.align-fl-end {
+    align-items: flex-end;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.align-stretch {
+    align-items: stretch;
+}
+
+.align-baseline {
+    align-items: baseline;
+}
+
+/*  --------------------------------- BOX Designs ---------------------------------------------- */
+
+.box1 {
+    width: 100px;
+    height:100px;
+    background-color: #20b2aa;
+}
+
+.box2 {
+    width: 100px;
+    height:100px;
+    background-color: #ffa500;
+}
+
+.box3 {
+    width: 100px;
+    height:100px;
+    background-color: #d7b81b;
+}
+
+.box4{
+    width: 100px;
+    height:100px;
+    background-color: #5fc922;
+}
+
+.box5 {
+    width: 100px;
+    height:150px;
+    background-color: #20b2aa;
+}
+
+.box6 {
+    width: 100px;
+    height:200px;
+    background-color: #ffa500;
+}
+
+.box7 {
+    width: 100px;
+    height:50px;
+    background-color: #d7b81b;
+}
+
+.box8{
+    width: 100px;
+    height:100px;
+    background-color: #5fc922;
+}
+
+/* ------------------------- COLOR CLASSES ------------------------ */
+
+.green {
+    background-color: #5fc922;
+}
+
+.yellow {
+    background-color: #d7b81b;
+}
+
+.orange1 {
+    background-color: #ffa500;
+}
+
+.blue {
+    background-color: #20b2aa;
+}
+code {
+    background-color: #c0c8d8;
+    border-radius: 4px;
+    box-shadow: #121826;
+    padding: 4px;
+}
+
+.display-footer {
+    background-color: #9ab6f7;
+    width:100%;
+    padding: 75px 50px 75px 50px;
 }

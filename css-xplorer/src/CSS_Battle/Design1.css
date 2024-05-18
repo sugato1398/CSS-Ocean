@@ -1,0 +1,17 @@
+.box-color {
+    background-color: aqua;
+    height:100px;
+    width:100px;
+    border-bottom-width: 230px;
+    border:64px solid ;
+    border-bottom-color:black;
+    border-top-color:red;
+    border-radius: 20px;
+    
+}
+
+.parent-box {
+    display:flex;
+    justify-content: center;
+    padding-top:100px;
+}
